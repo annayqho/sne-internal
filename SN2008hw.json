@@ -1,0 +1,16 @@
+{
+	"SN2008hw":{
+		"name":"SN2008hw",
+		"alias":[
+			{
+				"value":"SN2008hw"
+			}
+		],
+    "claimedtype":[
+      {
+        "value":"Ic BL",
+        "source":"5"
+      }
+    ]
+	}
+}
